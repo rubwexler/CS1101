@@ -6,9 +6,16 @@ course also covers abstract concepts which can be applied to almost any programm
 and students are encouraged to pay attention to these, since the way of thinking like a programmer
 is the most valuable lesson they will learn.</p>
 
-<p>Included in this repo are the syllabus, discussion assignments, learning journals, and programming
-assignments. No quizzes or exams. No completed assignments. This repo is here to help you prepare for this course
-and to see if this computer science program is for you. </p>
+<p>Included in this repo are the syllabus, discussion assignments, learning journals, helpful guides, and programming
+assignments. No quizzes or exams.</p>
+<br />
+
+This repo is for you if
+- You want to prepare ahead for this course.
+- To see if the computer science program is for you.
+
+This repo is NOT for anyone:
+- Who is looking to cheat (there are no completed assignments to copy from).
 
 <br />
 
