@@ -29,4 +29,6 @@ Extra Recommended Resources for Beginners <br />
 
 <strong>This repo is NOT for anyone:</strong>
 - Who is looking to cheat (there are no completed assignments to copy from).
+<br />
 
+Preparation materials for other University of the People computer science courses can be found here: https://www.uopeople.edu/prepare-for-university/computer-science-courses-prepare-university/
