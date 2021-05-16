@@ -1,4 +1,5 @@
 <h1 align="center">CS 1101: PROGRAMMING FUNDAMENTALS</h1>
+<h3 align="center">University of the People</h3>
 <p>This course covers the basics of computer programming and provides a foundation for further
 learning in this area. No previous computer programming knowledge is required to finish this course.
 The course uses the Python programming language which is very simple and straightforward. The
