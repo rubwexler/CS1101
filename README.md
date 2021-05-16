@@ -18,7 +18,7 @@ assignments. No quizzes or exams.</p>
 Recommended Resources <br />
 - Starting out with Python (4th edition) by Tony Gaddis: https://b-ok.cc/book/3704492/d4aa77 . Plenty of code examples and programming assignments in each chapter, great for drilling essential concepts!
 - Mosh Hamedani's Python videos: https://www.youtube.com/watch?v=_uQrJ0TkZlc .
-- Get familiar with using the terminal. Team treehouse has an Introduction to the Terminal course. They offer a free 7 day trial: https://teamtreehouse.com/library/introduction-to-the-terminal 
+- Get familiar with using the terminal. Team Treehouse has an "Introduction to the Terminal" course. They offer a free 7 day trial: https://teamtreehouse.com/library/introduction-to-the-terminal and there is this free resource to help you get started: https://github.com/rubwexler/linux 
 
 This repo is for you if
 - You want to prepare ahead for this course.
