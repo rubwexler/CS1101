@@ -7,7 +7,8 @@ and students are encouraged to pay attention to these, since the way of thinking
 is the most valuable lesson they will learn.</p>
 
 <p>Included in this repo are the syllabus, discussion assignments, learning journals, and programming
-assignments. No quizzes or exams.</p>
+assignments. No quizzes or exams. No completed assignments. This repo is here to help you prepare for this course
+and to see if this computer science program is for you. </p>
 
 <br />
 
