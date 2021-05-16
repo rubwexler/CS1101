@@ -15,6 +15,10 @@ Unported (CC BY-NC 3.0).</p>
 assignments. No quizzes or exams.</p>
 <br />
 
+Recommended Resources <br />
+- Starting out with Python (4th edition) by Tony Gaddis: https://b-ok.cc/book/3704492/d4aa77 . Plenty of code examples and programming assignments in each chapter, great for drilling essential concepts!
+- Mosh Hamedani's Python videos: https://www.youtube.com/watch?v=_uQrJ0TkZlc .
+
 This repo is for you if
 - You want to prepare ahead for this course.
 - To see if the computer science program is for you.
