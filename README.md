@@ -20,10 +20,10 @@ Recommended Resources <br />
 - Mosh Hamedani's Python videos: https://www.youtube.com/watch?v=_uQrJ0TkZlc .
 - Get familiar with using the terminal. Team Treehouse has an "Introduction to the Terminal" course. They offer a free 7 day trial: https://teamtreehouse.com/library/introduction-to-the-terminal and there is this free resource to help you get started: https://github.com/rubwexler/linux 
 
-This repo is for you if
+<strong>This repo is for you if</strong>
 - You want to prepare ahead for this course.
 - To see if the computer science program is for you.
 
-This repo is NOT for anyone:
+<strong>This repo is NOT for anyone:</strong>
 - Who is looking to cheat (there are no completed assignments to copy from).
 
