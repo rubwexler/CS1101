@@ -9,8 +9,7 @@ is the most valuable lesson they will learn.</p>
 
 <p>Textbook used: Downey, A. (2015). Think Python: How to think like a computer scientist. Green Tea
 Press. This book is licensed under Creative Commons Attribution-NonCommercial 3.0
-Unported (CC BY-NC 3.0).</p>
-<p>Download: https://bok.cc/s/?q=Think+Python%3A+How+to+think+like+a+computer+scientist</p>
+Unported (CC BY-NC 3.0). Download: https://bok.cc/s/?q=Think+Python%3A+How+to+think+like+a+computer+scientist</p>
 <p>University of the People Preparation Materials for this course: https://www.uopeople.edu/prepare-for-university/programming-fundamentals-java-cs-1101-learning-materials/</p>
 
 <br />
