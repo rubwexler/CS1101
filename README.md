@@ -6,6 +6,11 @@ course also covers abstract concepts which can be applied to almost any programm
 and students are encouraged to pay attention to these, since the way of thinking like a programmer
 is the most valuable lesson they will learn.</p>
 
+<p>Textbook used: Downey, A. (2015). Think Python: How to think like a computer scientist. Green Tea
+Press. This book is licensed under Creative Commons Attribution-NonCommercial 3.0
+Unported (CC BY-NC 3.0).</p>
+<p>Download: https://bok.cc/s/?q=Think+Python%3A+How+to+think+like+a+computer+scientist</p>
+
 <p>Included in this repo are the syllabus, discussion assignments, learning journals, helpful guides, and programming
 assignments. No quizzes or exams.</p>
 <br />
@@ -17,9 +22,3 @@ This repo is for you if
 This repo is NOT for anyone:
 - Who is looking to cheat (there are no completed assignments to copy from).
 
-<br />
-
-<p>Textbook used: Downey, A. (2015). Think Python: How to think like a computer scientist. Green Tea
-Press. This book is licensed under Creative Commons Attribution-NonCommercial 3.0
-Unported (CC BY-NC 3.0).</p>
-<p>Download: https://bok.cc/s/?q=Think+Python%3A+How+to+think+like+a+computer+scientist</p>
