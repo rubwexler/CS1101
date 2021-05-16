@@ -11,6 +11,7 @@ is the most valuable lesson they will learn.</p>
 Press. This book is licensed under Creative Commons Attribution-NonCommercial 3.0
 Unported (CC BY-NC 3.0).</p>
 <p>Download: https://bok.cc/s/?q=Think+Python%3A+How+to+think+like+a+computer+scientist</p>
+University of the People Preparation Materials for this course: https://www.uopeople.edu/prepare-for-university/programming-fundamentals-java-cs-1101-learning-materials/
 
 <p>Included in this repo are the syllabus, discussion assignments, learning journals, helpful guides, and programming
 assignments. No quizzes or exams.</p>
